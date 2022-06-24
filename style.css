@@ -51,7 +51,7 @@ body {
     opacity: 1;
     animation-name: ft1;
     animation-duration: 20s;
-    animation-iteration-count: 1000;
+    animation-iteration-count: infinite;
 }
 
 @keyframes ft1{
@@ -69,7 +69,7 @@ body {
     opacity: 0;
     animation-name: ft2;
     animation-duration: 20s;
-    animation-iteration-count: 1000;
+    animation-iteration-count: infinite;
 }
 
 @keyframes ft2{
@@ -86,7 +86,7 @@ body {
     opacity: 0;
     animation-name: ft3;
     animation-duration: 20s;
-    animation-iteration-count: 1000;
+    animation-iteration-count: infinite;
 }
 
 @keyframes ft3{
@@ -103,7 +103,7 @@ body {
     opacity: 0;
     animation-name: ft4;
     animation-duration: 20s;
-    animation-iteration-count: 1000;
+    animation-iteration-count: infinite;
 }
 
 @keyframes ft4{
