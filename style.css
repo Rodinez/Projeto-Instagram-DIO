@@ -49,12 +49,12 @@ body {
     left: calc(-106% - 1px);
     bottom: 22px;
     opacity: 1;
-    animation-name: ft1;
+    animation-name: img1;
     animation-duration: 20s;
     animation-iteration-count: infinite;
 }
 
-@keyframes ft1{
+@keyframes img1{
     0%{opacity: 1;}
     25%{opacity: 0;}
     90%{opacity: 0;}
@@ -67,12 +67,12 @@ body {
     left: calc(-81% - 1.5px);
     bottom: 22px;
     opacity: 0;
-    animation-name: ft2;
+    animation-name: img2;
     animation-duration: 20s;
     animation-iteration-count: infinite;
 }
 
-@keyframes ft2{
+@keyframes img2{
     0%{opacity: 0;}
     25%{opacity: 1;}
     50%{opacity: 0;}
@@ -84,12 +84,12 @@ body {
     left: calc(-56% - 1.5px);
     bottom: 22px;
     opacity: 0;
-    animation-name: ft3;
+    animation-name: img3;
     animation-duration: 20s;
     animation-iteration-count: infinite;
 }
 
-@keyframes ft3{
+@keyframes img3{
     0%{opacity: 0;}
     50%{opacity: 1;}
     75%{opacity: 0;}
@@ -101,12 +101,12 @@ body {
     left: calc(-31% - 1.5px);
     bottom: 22px;
     opacity: 0;
-    animation-name: ft4;
+    animation-name: img4;
     animation-duration: 20s;
     animation-iteration-count: infinite;
 }
 
-@keyframes ft4{
+@keyframes img4{
     0%{opacity: 0;}
     75%{opacity: 1;}
     90%{opacity: 1;}
